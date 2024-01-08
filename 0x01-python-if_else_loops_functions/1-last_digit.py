@@ -11,4 +11,4 @@ elif last_digit == 0:
     last_digit_txt = " and is 0"
 else:
     last_digit_txt = " and is less than 6 and not 0" 
-print("Last digit is " + str(number) + " is " + str(last_digit) + last_digit_txt)
+print("Last digit of " + str(number) + " is " + str(last_digit) + last_digit_txt)
